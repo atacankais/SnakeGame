@@ -9,6 +9,8 @@ Download and unpack zip file, then run "Setup.exe"
 * C#.NET
 * Microsoft Visual Studio 2022
 
+## Prerequisites
+* Windows
 
 ## Program walk-through:
 ![image](https://github.com/atacankais/SnakeGame/assets/120675653/97fcf699-aee9-433c-a3a7-571428d1f936)
