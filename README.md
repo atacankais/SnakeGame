@@ -1,7 +1,7 @@
 # Snake Game
 A Snake game made with C# in Visual Studio 2022
 ## Getting Started
-Download and unpack zip file, then run "Snake"
+Download and unpack zip file, then run "Setup.exe"
 
 [Snake.zip](https://github.com/atacankais/SnakeGame/releases/download/Release/Snake.zip)
 
