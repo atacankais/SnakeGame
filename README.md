@@ -11,6 +11,10 @@ Download and unpack zip file, then run "Snake"
 
 
 ## Program walk-through:
+![image](https://github.com/atacankais/SnakeGame/assets/120675653/97fcf699-aee9-433c-a3a7-571428d1f936)
+![image](https://github.com/atacankais/SnakeGame/assets/120675653/1f8f2bc5-be09-41b3-bfbb-dcdeff1f835b)
+
+
 
 ## Author
 
