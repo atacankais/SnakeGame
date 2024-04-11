@@ -4,7 +4,7 @@ A Snake game made with C# in Visual Studio 2022
 
 ## Built With
 * C#.NET
-* Microsoft Visual Studio
+* Microsoft Visual Studio 2022
 
 
 ## Program walk-through:
