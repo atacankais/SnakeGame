@@ -95,7 +95,7 @@
 
         public void ChangeDirection(Direction dir)
         {
-            Dir = dir
+            Dir = dir;
         }
         
         
